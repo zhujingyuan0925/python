@@ -24,7 +24,7 @@ def game():
     print '游戏结束'
 game()
 test zhujingyuan
-
+test jenkins
 # count = 1
 # for i in range(1,5):
 #     for m in range(1,5):
