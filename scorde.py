@@ -23,7 +23,7 @@ def game():
         count=count+1
     print '游戏结束'
 game()
-
+test zhujingyuan
 
 # count = 1
 # for i in range(1,5):
